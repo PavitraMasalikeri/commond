@@ -1,0 +1,2 @@
+name=you
+print(you)
