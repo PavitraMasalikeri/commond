@@ -1,2 +1,2 @@
-a=10
-print(a)
+c=20
+print(c)
